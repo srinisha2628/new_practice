@@ -1,5 +1,5 @@
-a = int(input("enter value\n"))
-b = int(input("enter value\n"))
+a = int(input("enter value"))
+b = int(input("enter value"))
 def add(a,b):
     print("addition of two numbers is",a+b)
 
