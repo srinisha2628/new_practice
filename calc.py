@@ -1,5 +1,6 @@
-a = int(input("enter value"))
-b = int(input("enter value"))
+import sys
+a = int(sys.argv[1])
+b = int(sys.argv[2])
 def add(a,b):
     print("addition of two numbers is",a+b)
 
