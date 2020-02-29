@@ -15,6 +15,7 @@ def div(a,b):
         print("b value cannot be zero")
     else:
         print("division of two numbers is",a/b)
+print("succesfull")
 add(a,b)
 sub(a,b)
 mul(a,b)
