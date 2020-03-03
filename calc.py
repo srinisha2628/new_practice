@@ -16,8 +16,6 @@ def div(a,b):
     else:
         print("division of two numbers is",a/b)
 print("succesfull")
-print(".......")
-print("ssssss")
 add(a,b)
 sub(a,b)
 mul(a,b)
